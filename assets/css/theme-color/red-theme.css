@@ -1,0 +1,203 @@
+/*=======================================
+Template Design By Decagon
+========================================*/
+
+.header-content h2 span {
+  color: #ab093a;
+}
+.knowmore-btn:hover,
+.knowmore-btn:focus,
+.download-btn:hover,
+.download-btn:focus{
+  background-color: #ab093a;
+  border-color: #ab093a;
+}
+.main-nav li a:hover{
+  color: #ab093a;
+} 
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ab093a;
+}
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #ab093a;
+}
+.search-area input[type="text"]:focus:hover {
+  border-bottom: 1px solid #ab093a;  
+}
+.search-area input[type="text"]:focus {
+  border-bottom: 1px solid #ab093a;  
+}
+.search-area input[type="submit"] {
+  background-color: #ab093a;  
+}
+.tittle>span{
+  color: #ab093a;
+}
+.single-wc-content span {
+  border: 1px solid #ab093a;
+  color: #ab093a;
+}
+.single-wc-content:hover .wc-icon{
+  background-color: #ab093a;
+}
+.single-wc-content:hover .wc-tittle{
+  border-bottom: 2px solid #ab093a;  
+}
+.about-left {
+  background-color: #ab093a;  
+}
+.button-default {  
+  border: 2px solid #ab093a !important;
+  color: #ab093a !important;
+}
+.button-default:hover {
+  border-color: #ab093a;
+}
+.button-default:hover,
+.button-default:focus {
+  border-color: #ab093a;
+  background-color: #ab093a !important;  
+}
+.introduction-btn {
+  background-color: rgba(238, 69, 50, 0.8);
+}
+.team-info {
+  background: rgba(238, 69, 50, 0.8);
+}  
+.team-grid li:hover .team-address p {
+  color: #ab093a;
+}
+.single-service {
+  border-bottom: 5px solid #ab093a;
+}
+.single-service:hover:after{  
+  background-color: #ab093a;
+}
+.single-service:hover .service-icon{
+  color: #ab093a;
+}
+.single-service:hover .service-title{
+  color: #ab093a;
+}
+.single-counter > span {
+  color: #ab093a;
+}
+.single-price .price-header {
+  background-color: #ab093a;
+ }
+ .single-price .price-header::after {
+  color: #ab093a;  
+}
+.single-price .price-amount {
+  border-bottom: 1px solid #ab093a;
+  color: #ab093a;  
+}
+.single-price a {
+  border-bottom: 1px solid #ab093a;
+}
+.standard-price a{
+  background-color: #ab093a;  
+}
+.single-from-blog .blog-title h2 a:hover,
+.single-from-blog .blog-title h2 a:focus{
+  color: #ab093a; 
+}
+.single-from-blog .blog-title .blog-admin{
+  color: #ab093a;
+}
+.single-from-blog .blog-footer a:hover,
+.single-from-blog .blog-footer a:focus { 
+  color: #ab093a;
+}
+.contact-form .form-control:focus {
+  border-color: #ab093a;   
+} 
+.portfolio-menu ul li:hover{
+  color: #ab093a;
+  border-color: #ab093a;  
+}
+.portfolio-social-icon a {
+  background-color: #ab093a;
+}
+.portfolio-title {
+  background-color: #ab093a;
+}
+.blog-banner-area .breadcrumb li.active{
+  color: #ab093a;
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: #ab093a;  
+  border-color:#ab093a;  
+}
+.single-widget h2 {
+  border-left: 3px solid #ab093a;  
+}
+.popular-post-widget .media-heading a:hover,
+.popular-post-widget .media-heading a:focus{
+  color: #ab093a;  
+}
+.instagram-feed .slick-prev::before,
+.instagram-feed .slick-next::before {
+  color: #ab093a;  
+}
+.instagram-feed .slick-dots li.slick-active button{
+  background-color: #ab093a;
+}
+.instagram-feed .slick-dots li.slick-active button::before{
+  color: #ab093a
+}
+.comment-form .form-control:focus {
+  border-color: #ab093a;   
+} 
+.error-no {
+  border: 2px solid #ab093a;  
+}
+.error-no p {
+  color: #ab093a;
+}
+.blog-details-content>a:hover{
+  color: #ab093a;
+}
+.scrollToTop {  
+  color: #ab093a;  
+}
+.scrollToTop:hover,
+.scrollToTop:focus{  
+  background-color: #ab093a; 
+}
+.loader {  
+  background: #ab093a;
+  background: -moz-linear-gradient(left, #ab093a 10%, rgba(255, 255, 255, 0) 42%);
+  background: -webkit-linear-gradient(left, #ab093a 10%, rgba(255, 255, 255, 0) 42%);
+  background: -o-linear-gradient(left, #ab093a 10%, rgba(255, 255, 255, 0) 42%);
+  background: -ms-linear-gradient(left, #ab093a 10%, rgba(255, 255, 255, 0) 42%);
+  background: linear-gradient(to right, #ab093a 10%, rgba(255, 255, 255, 0) 42%);  
+}
+.loader:before {
+  background: #ab093a; 
+}
+.footer-bottom p span{
+  color: #ab093a;
+}
+.blog-pagination > li > a,
+.blog-pagination > li > span {
+  color: #ab093a; 
+}
+.blog-pagination > li > a:hover,
+.blog-pagination > li > span:hover,
+.blog-pagination > li > a:focus,
+.blog-pagination > li > span:focus{
+  background-color: #ab093a;  
+  border-color:#ab093a;
+}
+
+/*=======================================
+Template Design By MarkUps.
+Author URI : http://www.markups.io/
+========================================*/
